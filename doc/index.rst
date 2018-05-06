@@ -55,14 +55,12 @@ Contents
 
 .. toctree::
    :caption: Table of Contents
-   :glob:
    :maxdepth: 1
 
-   config/*
-   core/*
-   develop/*
-   hardware/*
-   install/*
-   modules/*
-   ui/*
-   
+   config/index
+   core/index
+   develop/index
+   hardware/index
+   install/index
+   modules/index
+   ui/index
