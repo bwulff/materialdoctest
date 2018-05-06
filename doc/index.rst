@@ -59,3 +59,10 @@ Contents
    :maxdepth: 1
 
    config/*
+   core/*
+   develop/*
+   hardware/*
+   install/*
+   modules/*
+   ui/*
+   
