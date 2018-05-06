@@ -75,3 +75,7 @@ html_theme_options = {
 }
 
 html_show_sourcelink = True
+
+rst_prolog= u"""
+    .. |project| replace:: Sphinx Material Design Theme
+"""
