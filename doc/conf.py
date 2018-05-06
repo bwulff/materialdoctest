@@ -16,6 +16,7 @@ release = __version__
 
 
 project = 'LectureSight'
+copyright = 'The LectureSight Athors'
 author = 'The LectureSight Athors'
 
 language = 'en'
@@ -40,10 +41,8 @@ html_theme_options = {
     # For details see link.
     # https://material.io/icons/
     'header_links' : [
-       ('Home', 'index', False, 'home'),
-       ("ExternalLink", "http://example.com", True, 'launch'),
-       ("NoIconLink", "http://example.com", True, ''),
-       ("GitHub", "https://github.com/myyasuda/sphinx_materialdesign_theme", True, 'link')
+       ('Home', 'http://lecturesight.org', False, 'home'),
+       ("GitHub", "https://github.com/LectureSight/lecturesight", True, 'link')
     ],
 
     # Customize css colors.
@@ -54,7 +53,7 @@ html_theme_options = {
     #         light_green, lime, orange, pink, purple, red, teal, yellow(Default: indigo)
     'primary_color': 'indigo',
     # Values: Same as primary_color. (Default: pink)
-    'accent_color': 'pink',
+    'accent_color': 'deep_purple',
 
     # Customize layout.
     # For details see link.
