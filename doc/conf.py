@@ -53,15 +53,15 @@ html_theme_options = {
     #         light_green, lime, orange, pink, purple, red, teal, yellow(Default: indigo)
     'primary_color': 'blue',
     # Values: Same as primary_color. (Default: pink)
-    'accent_color': 'indigo',
+    'accent_color': 'light_blue',
 
     # Customize layout.
     # For details see link.
     # https://getmdl.io/components/index.html#layout-section
     'fixed_drawer': False,
-    'fixed_header': True,
+    'fixed_header': False,
     'header_waterfall': False,
-    'header_scroll': False,
+    'header_scroll': True,
 
     # Render title in header.
     # Values: True, False (Default: False)
